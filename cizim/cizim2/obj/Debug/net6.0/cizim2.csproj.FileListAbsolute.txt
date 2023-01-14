@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\cizim2\cizim2\bin\Debug\net6.0\cizim2.exe
+C:\Users\user\source\repos\cizim2\cizim2\bin\Debug\net6.0\cizim2.deps.json
+C:\Users\user\source\repos\cizim2\cizim2\bin\Debug\net6.0\cizim2.runtimeconfig.json
+C:\Users\user\source\repos\cizim2\cizim2\bin\Debug\net6.0\cizim2.dll
+C:\Users\user\source\repos\cizim2\cizim2\bin\Debug\net6.0\cizim2.pdb
+C:\Users\user\source\repos\cizim2\cizim2\obj\Debug\net6.0\cizim2.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\cizim2\cizim2\obj\Debug\net6.0\cizim2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\cizim2\cizim2\obj\Debug\net6.0\cizim2.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\cizim2\cizim2\obj\Debug\net6.0\cizim2.AssemblyInfo.cs
+C:\Users\user\source\repos\cizim2\cizim2\obj\Debug\net6.0\cizim2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\cizim2\cizim2\obj\Debug\net6.0\cizim2.dll
+C:\Users\user\source\repos\cizim2\cizim2\obj\Debug\net6.0\refint\cizim2.dll
+C:\Users\user\source\repos\cizim2\cizim2\obj\Debug\net6.0\cizim2.pdb
+C:\Users\user\source\repos\cizim2\cizim2\obj\Debug\net6.0\cizim2.genruntimeconfig.cache
+C:\Users\user\source\repos\cizim2\cizim2\obj\Debug\net6.0\ref\cizim2.dll
